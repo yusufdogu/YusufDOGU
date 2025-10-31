@@ -4,7 +4,7 @@
   <a href="https://medium.com/@ydogu159" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/yusuf-do%C4%9Fu/" target="_blank">
+  <a href="https://www.linkedin.com/in/doguyusuf/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.kaggle.com/yusufdogu" target="_blank">
