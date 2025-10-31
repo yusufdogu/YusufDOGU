@@ -1,3 +1,10 @@
+
+### 📫 How to reach me
+- **LinkedIn:** [linkedin.com/in/yusufdogu](https://www.linkedin.com/in/yusufdogu)  
+- **Kaggle:** [kaggle.com/yusufdogu](https://www.kaggle.com/yusufdogu)  
+- **Medium:** [medium.com/@yusufdogu](https://medium.com/@yusufdogu)  
+- **Email:** ydogu159@gmail.com
+  
 ## Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
