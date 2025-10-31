@@ -12,7 +12,11 @@
   <a href="https://www.kaggle.com/yusufdogu" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
+  <a href="mailto:ydogu159@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
 
 
 ## Hi there 👋
