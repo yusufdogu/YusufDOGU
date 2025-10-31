@@ -1,10 +1,28 @@
+<p align="center">
+  <span style="font-size:18px">Hi there 👋, <strong>my name is Bobby Galli</strong></span>
+</p>
 
-### 📫 How to reach me
-- **LinkedIn:** [linkedin.com/in/yusufdogu](https://www.linkedin.com/in/yusufdogu)  
-- **Kaggle:** [kaggle.com/yusufdogu](https://www.kaggle.com/yusufdogu)  
-- **Medium:** [medium.com/@yusufdogu](https://medium.com/@yusufdogu)  
-- **Email:** ydogu159@gmail.com
-  
+<p align="center">
+  <a href="https://www.youtube.com/your-channel" target="_blank">
+    <img alt="YouTube" src="./assets/youtube.png" width="110" style="margin:6px"/>
+  </a>
+  <a href="https://medium.com/@yourname" target="_blank">
+    <img alt="Medium" src="./assets/medium.png" width="110" style="margin:6px"/>
+  </a>
+  <a href="https://discord.gg/your-invite" target="_blank">
+    <img alt="Discord" src="./assets/discord.png" width="110" style="margin:6px"/>
+  </a>
+  <a href="https://instagram.com/yourhandle" target="_blank">
+    <img alt="Instagram" src="./assets/instagram.png" width="110" style="margin:6px"/>
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img alt="Twitter" src="./assets/twitter.png" width="110" style="margin:6px"/>
+  </a>
+  <a href="https://open.spotify.com/user/yourprofile" target="_blank">
+    <img alt="Spotify" src="./assets/spotify.png" width="110" style="margin:6px"/>
+  </a>
+</p>
+
 ## Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
