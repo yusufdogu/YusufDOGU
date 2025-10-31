@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/yusufdogu" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.kaggle.com/yusufdogu" target="_blank">
+  <a href="www.linkedin.com/in/doguyusuf" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   <a href="mailto:ydogu159@gmail.com" target="_blank">
