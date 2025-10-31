@@ -6,10 +6,10 @@
   <a href="https://medium.com/@ydogu159" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/yusufdogu" target="_blank">
+  <a href="https://www.linkedin.com/in/yusuf-do%C4%9Fu/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/doguyusuf" target="_blank">
+  <a href="https://www.kaggle.com/yusufdogu" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   <a href="mailto:ydogu159@gmail.com" target="_blank">
