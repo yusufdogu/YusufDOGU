@@ -1,25 +1,25 @@
 <p align="center">
-  <span style="font-size:18px">Hi there 👋, <strong>my name is Bobby Galli</strong></span>
+  <span style="font-size:18px">Hi there 👋, <strong>my name is Yusuf Dogu</strong></span>
 </p>
 
 <p align="center">
   <a href="https://www.youtube.com/your-channel" target="_blank">
-    <img alt="YouTube" src="./assets/youtube.png" width="110" style="margin:6px"/>
+    <img alt="YouTube" src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://medium.com/@yourname" target="_blank">
-    <img alt="Medium" src="./assets/medium.png" width="110" style="margin:6px"/>
+    <img alt="Medium" src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   <a href="https://discord.gg/your-invite" target="_blank">
-    <img alt="Discord" src="./assets/discord.png" width="110" style="margin:6px"/>
+    <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://instagram.com/yourhandle" target="_blank">
-    <img alt="Instagram" src="./assets/instagram.png" width="110" style="margin:6px"/>
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://twitter.com/yourhandle" target="_blank">
-    <img alt="Twitter" src="./assets/twitter.png" width="110" style="margin:6px"/>
+    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://open.spotify.com/user/yourprofile" target="_blank">
-    <img alt="Spotify" src="./assets/spotify.png" width="110" style="margin:6px"/>
+    <img alt="Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </p>
 
