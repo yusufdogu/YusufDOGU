@@ -13,6 +13,9 @@
   <a href="mailto:ydogu159@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.aicrowd.com/participants/yusuf_dogu" target="_blank">
+    <img alt="AIcrowd" src="https://img.shields.io/badge/-AIcrowd-FF6F00?style=for-the-badge&logo=aicrowd&logoColor=white"/>
+  </a>
 </p>
 
 
