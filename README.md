@@ -1,3 +1,4 @@
+**Computer Engineer** | **Data Science** & **Computer Vision**
 
 <p align="center">
   <a href="https://medium.com/@ydogu159" target="_blank">
