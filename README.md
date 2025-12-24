@@ -21,7 +21,7 @@
 
 -  I’m a **Computer Engineering student** at **Gazi University**.  
 -  I’m the **team leader** of a project group that competes in **international computer vision and data science competitions**.  
--  I’ve participated in competitions organized by **Wollongong University**, **TEKNOFEST**, and **BTK**.  
+-  I’ve participated in competitions organized by **DataKind**, **Wollongong University**, **TEKNOFEST**, and **BTK**.  
 -  I’m currently improving my **Data Structures and Algorithms** skills.  
 -  I’m looking to collaborate on projects related to **Data Science**, **Computer Vision**, and **Machine Learning**.
 
